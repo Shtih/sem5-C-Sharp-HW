@@ -1,0 +1,5 @@
+/Users/juliashtih/Documents/C#/Sem5 C#/task38double/obj/Debug/net7.0/task38double.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem5 C#/task38double/obj/Debug/net7.0/task38double.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem5 C#/task38double/obj/Debug/net7.0/task38double.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem5 C#/task38double/obj/Debug/net7.0/task38double.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem5 C#/task38double/obj/Debug/net7.0/task38double.csproj.CoreCompileInputs.cache

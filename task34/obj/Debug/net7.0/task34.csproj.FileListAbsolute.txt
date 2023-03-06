@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/bin/Debug/net7.0/task34
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/bin/Debug/net7.0/task34.deps.json
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/bin/Debug/net7.0/task34.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/bin/Debug/net7.0/task34.dll
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/bin/Debug/net7.0/task34.pdb
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/task34.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/task34.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/task34.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/task34.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/task34.dll
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/refint/task34.dll
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/task34.pdb
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/task34.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem5 C#/task34/obj/Debug/net7.0/ref/task34.dll
